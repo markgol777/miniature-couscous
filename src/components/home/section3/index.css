@@ -1,0 +1,51 @@
+.section3 {
+  background-color: rgb(43, 43, 43);
+  padding-top: 60px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.section3-info {
+  width: 1046px;
+  color: white;
+  margin-bottom: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.section3-info h2 {
+  font-size: 35px;
+  margin-bottom: 5px;
+}
+
+.view-rankings-btn {
+  width: 247px;
+  height: 60px;
+  border-radius: 20px;
+  background-color: transparent;
+  border: 1px solid #a259ff;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.view-rankings-btn img {
+  margin-right: 10px;
+}
+
+.creators {
+  width: 1046px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.creator {
+  width: 240px;
+  height: 238px;
+  background-color: #3b3b3b;
+  border-radius: 20px;
+}

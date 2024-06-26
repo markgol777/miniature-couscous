@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+.section2 {
+  background-color: rgb(43, 43, 43);
+  padding-top: 60px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.section2-info {
+  width: 1046px;
+  color: white;
+  margin-bottom: 50px;
+}
+
+.section2-info h2 {
+  font-size: 35px;
+  margin-bottom: 5px;
+}
+
+.nft-collection {
+  display: flex;
+  justify-content: space-between;
+  width: 1046px;
+}
+
+.collection1 {
+  margin-right: 10px;
+}
+
+.collection1 .bottom {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.collection1 .more-nfts {
+  height: 100px;
+  width: 100px;
+  border-radius: 20px;
+  background-color: #a259ff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-family: "Space Mono", monospace;
+  font-weight: 800;
+}
+
+.nft-collection-author h3 {
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.nft-collection-author .author {
+  display: flex;
+  align-items: center;
+}
+
+.nft-collection-author .author p {
+  color: white;
+}
