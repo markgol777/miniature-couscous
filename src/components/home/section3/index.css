@@ -48,4 +48,23 @@
   height: 238px;
   background-color: #3b3b3b;
   border-radius: 20px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 10px;
+}
+
+.creator h3 {
+  margin-top: 10px;
+}
+
+.total-sales-text {
+  color: #858584;
+}
+
+.total-sales {
+  font-size: 13px;
+  font-family: monospace;
 }
